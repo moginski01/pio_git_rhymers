@@ -15,4 +15,4 @@ public class HanoiRhymer extends DefaultCountingOutRhymer {
             super.countIn(in);
     }
 }
-//kombinacje klawisze alt i strzałki oraz ctrl+/ działają
+//kombinacje klawisze alt i strzałki oraz ctrl+/ działają .
