@@ -72,7 +72,7 @@ public class RhymersJUnitTest {
 		result = rhymer.countOut();
 		Assert.assertEquals(testValue, result);
 		result = rhymer.countOut();
-		Assert.assertEquals(EMPTY_STACK_VALUE, result);
+		Assert.assertEquals(EMPTY_STACK_VALUE, result);//
 	}
 
 }
